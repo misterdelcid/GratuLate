@@ -4,6 +4,8 @@ Description: GratuLate allows you to add thank you notes to send to specific con
 
 This project is my most complete, cohesive project to date. It really helped reinforce my knowledge about authentication, redux, and firebase. It was also a great learning experience to try to creatively keep the design simple, minimalist, and (hopefully) pretty.
 
+You can check out a demo of the app here: https://seen-bb21c.web.app
+
 Thank you for taking the time to check out my code. It means a lot! 
 
 Christian
